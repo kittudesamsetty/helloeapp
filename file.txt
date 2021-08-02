@@ -1,1 +1,10 @@
-Welcome to Devops!
+Welcome to GIT!
+
+
+workingarea
+staging area
+local repository
+brances 
+stashing 
+logs 
+etc
